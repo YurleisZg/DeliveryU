@@ -1,0 +1,14 @@
+bin
+obj
+Properties
+**/.dockerignore
+**/appsettings.Development.json
+**/appsettings.json
+**/DeliveryUApi.csproj
+**/DeliveryUApi.http
+**/DeliveryUApi.sln
+**/Dockerfile
+**/firebase.json
+**/README.Docker.md
+
+
